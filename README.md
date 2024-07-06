@@ -6,7 +6,9 @@ into actionable insights.
 - 💞️ I love working with Excel, SQL ans Power BI.
 - 😃 i am exicted to learn more amazing things about Data Analytics 
 - 📫 You can learn more about me here https://basieumo.carrd.co/
+- 📚 You can read my articles here https://medium.com/@basieumo
   
+
  
 <!---
 Basieumo/Basieumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
